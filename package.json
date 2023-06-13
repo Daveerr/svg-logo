@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Daveerr/svg-logo/issues"
   },
-  "homepage": "https://github.com/Daveerr/svg-logo#readme"
+  "homepage": "https://github.com/Daveerr/svg-logo#readme",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "jest": "^29.5.0",
+    "svg-builder": "^2.0.0"
+  }
 }
