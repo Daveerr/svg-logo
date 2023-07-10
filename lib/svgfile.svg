@@ -1,0 +1,7 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+          <rect x="0" y="0" width="200" height="200" fill="red" />
+          <rect x="10" y="10" width="30" height="30" fill="red"/>
+          <text x="100" y="100" fill="#ffffff" text-anchor="middle" alignment-baseline="central">svg</text>
+        </svg>
+      
